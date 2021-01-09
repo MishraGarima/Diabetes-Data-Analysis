@@ -14,4 +14,3 @@ Here,
 * As the accuracy is low added interaction variables to the training data and testing data and trained and tested the model.
 * Evaluated the results for the model with interaction variable and observed confusion matrix, training score as 0.79, testing score as 0.46, and accuracy as 46% for the modified data.
 * In this case, the interaction effect has increased the accuracy of the model by 15%, and hence an enhanced model is observed. Also, pictured the model coefficient to view contribution by each variable.
-
